@@ -18,12 +18,13 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with over 5.5 years 
 
 ### 🛠 Tech Stack
 
-- **Languages:** JavaScript (ES6+)
+- **Languages:** JavaScript (ES6+), Python
 - **Backend:** Node.js, Express.js
 - **Frontend:** React.js, HTML5, CSS3, Bootstrap
 - **Databases:** MongoDB, SQL, Firebase
+- - **In memory Databases:** Redis, Redux
 - **Tools:** Git, GitHub, Docker
-- **Architectures:** MVC, Microservices
+- **Architectures:** MVC, Multi-tier, Microservices
 - **Cloud:** AWS EC2,S3, Lambda, Azure Bot Framework, Google Dialogflow
 - **Others:** Kore.ai, Liveperson, Yellow.ai
 
@@ -38,8 +39,8 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with over 5.5 years 
 
 ### ✨ Fun Facts
 
-- 🎸 In my free time, I love playing the guitar and exploring new music.
-- 🌍 Passionate about sustainable technology and its impact on the environment.
+- 🎸 In my free time, I love visiting new places and exploring new music.
+- 🌍 Passionate about sustainable technology, new tech trends, geographical importance.
 
 ---
 
