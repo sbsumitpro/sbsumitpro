@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with over 5.5 years 
 - **Backend:** Node.js, Express.js
 - **Frontend:** React.js, HTML5, CSS3, Bootstrap
 - **Databases:** MongoDB, SQL, Firebase
-- - **In memory Databases:** Redis, Redux
+- **In memory Databases:** Redis, Redux
 - **Tools:** Git, GitHub, Docker
 - **Architectures:** MVC, Multi-tier, Microservices
 - **Cloud:** AWS EC2,S3, Lambda, Azure Bot Framework, Google Dialogflow
